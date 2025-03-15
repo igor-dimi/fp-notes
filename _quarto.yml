@@ -14,7 +14,9 @@ book:
   downloads: ["pdf"]
   page-navigation: true
 
-# bibliography: references.bib
+bibliography: references.bib
+
+cls: nature.cls
 
 format:
   html:
