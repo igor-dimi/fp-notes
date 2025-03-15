@@ -16,7 +16,7 @@ book:
 
 bibliography: references.bib
 
-cls: nature.cls
+csl: nature.csl
 
 format:
   html:
