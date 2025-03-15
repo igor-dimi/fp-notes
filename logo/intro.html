@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -152,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#words-and-lists" id="toc-words-and-lists" class="nav-link" data-scroll-target="#words-and-lists"><span class="header-section-number">2.1.1</span> Words and Lists</a></li>
   <li><a href="#procedures-and-instructions" id="toc-procedures-and-instructions" class="nav-link" data-scroll-target="#procedures-and-instructions"><span class="header-section-number">2.1.2</span> Procedures and Instructions</a></li>
   <li><a href="#manipulating-words-and-lists" id="toc-manipulating-words-and-lists" class="nav-link" data-scroll-target="#manipulating-words-and-lists"><span class="header-section-number">2.1.3</span> Manipulating Words and Lists</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">2.1.4</span> References</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -226,9 +247,25 @@ ul.task-list li input[type="checkbox"] {
 <p>An <em>instruction</em> is invocation of one or more procedures. E.g. <code>print sum 3 2</code> or <code>print 10</code>. More formally an instruction is a list, where the first word is a command and the rest of the words are expressions that evaluate to inputs necessary to carry out the command. E.g.:</p>
 <pre class="text"><code>print sum 3 2</code></pre>
 <p><code>print</code> is a command and it expects single datum. <code>sum 3 2</code> is an expression evaluating to <code>5</code>, which in turn is passed to <code>print</code> as input.</p>
+<p>A procedure is described (specified) by the following: <span class="citation" data-cites="harveyComputerScienceLogo1997">(see <a href="intro.html#ref-harveyComputerScienceLogo1997" role="doc-biblioref">Harvey 1997, 34–35</a>)</span></p>
+<ol type="1">
+<li>Is it a command or an operation?</li>
+<li>How many inputs does it accept?</li>
+<li>What are the types of each of the inputs? (word, list or array)?</li>
+<li>If the procedure is an operation, what is the <em>output</em>? (Its description and type) If the procedure is a command what is the effect? (The description of the effect) .</li>
+</ol>
 </section>
 <section id="manipulating-words-and-lists" class="level3" data-number="2.1.3">
 <h3 data-number="2.1.3" class="anchored" data-anchor-id="manipulating-words-and-lists"><span class="header-section-number">2.1.3</span> Manipulating Words and Lists</h3>
+</section>
+<section id="references" class="level3" data-number="2.1.4">
+<h3 data-number="2.1.4" class="anchored" data-anchor-id="references"><span class="header-section-number">2.1.4</span> References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-harveyComputerScienceLogo1997" class="csl-entry" role="listitem">
+Harvey, Brian. 1997. <em>Computer Science <span>Logo</span> Style:
+<span>Volume</span> 3</em>. 2nd ed. Cambridge, Mass: MIT Press.
+</div>
+</div>
 
 
 </section>
