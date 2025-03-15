@@ -106,4 +106,13 @@ print sum 3 2
 `print` is a command and it expects single datum. `sum 3 2` is an expression evaluating to `5`, which in turn is passed to
 `print` as input. 
 
+A procedure is described (specified) by the following:
+
+1. Is it a command or an operation?
+2. How many inputs does it accept?
+3. What are the types of each of the inputs? (word, list or array)?
+4. If the procedure is an operation, what is the *output*? (Its description and type) If the procedure is a command what is the effect? (The description of the effect) .
+
 ### Manipulating Words and Lists
+
+how come aer you t 
