@@ -1,0 +1,95 @@
+---
+title: Reading List
+---
+
+## Logo
+
+* Computer Science Logo Style, Vol 1 - 3. Harvey. 
+
+
+## Lisp
+
+* Common Lisp - A Gentle Introduction to Symbolic Computation. Touretzky
+* Common Lisp - An Interactive Approach. Shapiro
+* Land of Lisp - Learn to Program in Lisp, One Game at a Time. Barski
+* Common Lisp - Paul Graham
+* On Lisp - Advanced Techniques for Common Lisp - Paul Graham
+* Lisp - Let Over Lambda. Hoyte
+* Lisp in Small Pieces - Queinnec
+* The Anatomy of Lisp - John Allen
+
+
+## Scheme
+
+* Simply Scheme. Harvey
+* Concrete Abstractions - an Introduction to Computer Science using Scheme. Hailperin
+* An Introduction to Scheme. Jerry Smith
+* Exploring Computer Science with Scheme. Oliver Grillmeyer
+* Programming in Scheme. Eisenberg
+* Programming and Metaprogramming in Scheme. Jon Pearce
+* Structure and Interpretation of Computer Programs
+* Algorithms for Functional Programming. John David Stone
+
+## Racket
+
+* How to Design Programs - an Introduction to Programming and Computing. Felleisen
+* Realm of Racket - Learn to Program, One Game at a Time!. Van Horn, Felleisen
+* Racket Programming the Fun Way - From Strings to Turing Machines. James Stelly
+* Die Macht der Abstraktion. Klaeren
+
+## Haskell
+
+* Functional Programming. Fokker
+* Introduction to Functional Programming using Haskell. Bird
+* Introduction to Functional Programming Systems Using Haskell. Antony Davie
+* Thinking Functionally with Haskell - Richard Bird
+* Haskell - The Craft of Functional Programming. Thompson
+* Programming in Haskell. Graham Hutton
+* Reasoned Programming. Broda
+* Introduction to Computation, Haskell, Logic, and Automata. Wadler
+* Algorithm Design in Haskell. Bird
+* The Fun of Programming - Gibbons
+* Algebra of Programming. Bird, de Moor
+
+## SML
+
+* Elements of Fucntional Programming with SML. Reade
+* Introduction to Programming Using SML. Hansel, Rischel
+* Functional Programming Using SML. Wikstroem
+* Elements of ML Programming. Ullman
+* Purely Functional Data Structures. Okasaki
+
+## OCAML
+
+* Think OCAML - How to Think Like a Computer Scientist. Monje, Downey
+* OCaml from the very Beginning. Whitington
+* More OCaml. Whitignton
+* OCaml - Functional Programming for the Masses. Madhavapeddy
+
+
+## Implementation and Practical Aspects
+
+* Functional Programming - Application and Implementation. Henderson
+* Functional Programming. Field, Harrison 
+* The Architecture of Symbolic Computers
+
+## General
+
+* Functional Programming - Practice and Theory. Bruce J. MacLennan
+* Equations, Models, and Programs - a Mathematical Introduction to Computer Science. Myers. 
+
+## Theory
+
+* An Introduction to Functional Programmming Through Lambda Calculus. Michaelson
+* Introduction to Functional Programming. Gordon
+* Introduction to Functional Programming. Harrison
+* Type Theory & Functional Programming. Thompson
+
+## Python 
+
+* A Functional Start to Computing with Python. Herman
+* SICP with Python
+
+## C 
+
+* Functional C. Muller

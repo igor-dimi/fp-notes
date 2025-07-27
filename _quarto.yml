@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - reading.qmd
     - part: "Logo"
       chapters: 
       - logo/intro.qmd
