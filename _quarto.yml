@@ -12,6 +12,9 @@ book:
     - part: "Logo"
       chapters: 
       - logo/intro.qmd
+    - part: "Gofer"
+      chapters:
+      - fokker/ch1/notes.qmd
   downloads: ["pdf"]
   page-navigation: true
 
