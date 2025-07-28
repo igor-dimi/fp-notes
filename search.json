@@ -170,5 +170,16 @@
       "Logo",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Logo</span>"
     ]
+  },
+  {
+    "objectID": "fokker/ch1/notes.html",
+    "href": "fokker/ch1/notes.html",
+    "title": "4  Intro to FP with Gofer",
+    "section": "",
+    "text": "4.1",
+    "crumbs": [
+      "Gofer",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Intro to FP with Gofer</span>"
+    ]
   }
 ]
