@@ -150,6 +150,16 @@
     ]
   },
   {
+    "objectID": "reading.html#articles",
+    "href": "reading.html#articles",
+    "title": "2  Reading List",
+    "section": "2.13 Articles",
+    "text": "2.13 Articles\n\nTransformational Programming and the Paragraph Problem. Bird\nFrom Informal Requirements to a Running Program: A Case Study in Aglebrain Specification and Transformational Programming. Partsch\nRecursion Equation as a Programming Language. Turner\nCombining Algebraic and Algorithmic Reasoning: An Approach to the Schorr-Waite Algorithm. Broy, Pepper\nAlgebraic Calculation of Graph and Sorting Algorithms. Moeller\nLaw and Order in Algorithmics. Fokkinga\nFunctional Programming with Bananas, Lenses, Envelopes, and Barbed Wire. Fokkinga, Paterson\nAn Introduction to the Theory of Lists. Bird",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
     "objectID": "logo/brian/vol1/notes.html",
     "href": "logo/brian/vol1/notes.html",
     "title": "3  Introduction to Logo",
