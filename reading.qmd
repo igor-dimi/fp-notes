@@ -94,3 +94,14 @@ title: Reading List
 ## C 
 
 * Functional C. Muller
+
+## Articles
+
+* Transformational Programming and the Paragraph Problem. Bird
+* From Informal Requirements to a Running Program: A Case Study in Aglebrain Specification and Transformational Programming. Partsch
+* Recursion Equation as a Programming Language. Turner
+* Combining Algebraic and Algorithmic Reasoning: An Approach to the Schorr-Waite Algorithm. Broy, Pepper
+* Algebraic Calculation of Graph and Sorting Algorithms. Moeller
+* Law and Order in Algorithmics. Fokkinga
+* Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire. Fokkinga, Paterson
+* An Introduction to the Theory of Lists. Bird
