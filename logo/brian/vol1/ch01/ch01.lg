@@ -1,0 +1,8 @@
+to ciao
+print [good bye!]
+end
+
+to hi
+print [hi there, friend.]
+end
+

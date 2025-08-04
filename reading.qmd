@@ -84,6 +84,7 @@ title: Reading List
 * Introduction to Functional Programming. Gordon
 * Introduction to Functional Programming. Harrison
 * Type Theory & Functional Programming. Thompson
+* Foundations of Functional Programming. Lawrence C Paulson
 
 ## Python 
 

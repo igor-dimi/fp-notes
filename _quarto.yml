@@ -11,7 +11,7 @@ book:
     - reading.qmd
     - part: "Logo"
       chapters: 
-      - logo/intro.qmd
+      - logo/brian/vol1/notes.qmd
   downloads: ["pdf"]
   page-navigation: true
 
