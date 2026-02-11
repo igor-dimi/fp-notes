@@ -6,3 +6,9 @@ to hi
 print [hi there, friend.]
 end
 
+to music.quiz
+print [Who is the greatest musician of all time?]
+if equalp readlist [John Lennon] [print [That's right!] stop]
+print [No, silly, it's John Lennon.]
+end
+
