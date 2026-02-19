@@ -1,0 +1,19 @@
+to goobye
+pr "hey
+pr [how are you doing?]
+pr "goodbye!
+end
+
+to goodbye
+end
+
+to hello
+print "hello
+print [this is logo speaking.]
+pr [what's new]
+end
+
+to new
+pr [this is just another procedure]
+end
+
